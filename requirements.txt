@@ -1,0 +1,5 @@
+pip~=24.2
+attrs~=24.2.0
+PySocks~=1.7.1
+pillow~=11.0.0
+filelock~=3.16.1
